@@ -4,7 +4,8 @@
   "description": "Extract .unitypackage files from the command line",
   "main": "dist/index.js",
   "bin": {
-    "unitypackage-extractor": "dist/cli.js"
+    "unitypackage-extractor": "dist/cli.js",
+    "package-extractor": "dist/cli.js"
   },
   "scripts": {
     "build": "tsc",
